@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.261
+
+### Patch Changes
+
+- Prevent full reload when router navigates and only removes hash ([#3757](https://github.com/sveltejs/kit/pull/3757))
+
 ## 1.0.0-next.260
 
 ### Patch Changes
